@@ -1,0 +1,6 @@
+# Some attention
+"filters" is folder to store filter image and file csv
+"filter_in_frame.py", "IMG_9085.jpg", "output.jpg" is experimental data and image filtering source code
+"mylib.py" and "main.py" is source code apply filter on realtime webcam
+
+## Please run "main.py" to show my filter!!
